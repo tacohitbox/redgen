@@ -1,0 +1,33 @@
+{
+  "name": "redgen",
+  "version": "1.0.0",
+  "description": "Tool to automate redmine workflows",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropb/redgen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedropb/redgen/issues"
+  },
+  "homepage": "https://github.com/pedropb/redgen#readme",
+  "dependencies": {
+    "custom-password-generator": "^1.2.0",
+    "mail.tm": "^0.0.5",
+    "ora": "^5.4.0",
+    "prompt": "^1.2.2",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0"
+  },
+  "bin": {
+    "redgen": "run.js",
+    "redgen-config": "config.js"
+  }
+}
