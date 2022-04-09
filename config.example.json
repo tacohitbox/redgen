@@ -1,3 +1,6 @@
 {
-  "2c-key": "-- get @ https://2captcha.com --"
+  "2c-key": "-- get @ https://2captcha.com --",
+  "enable-proxies": false,
+  "retrieve-proxies": false,
+  "proxy-file": "./proxy.txt"
 }

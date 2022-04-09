@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/pedropb/redgen#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "custom-password-generator": "^1.2.0",
     "mail.tm": "^0.0.5",
     "ora": "^5.4.0",
