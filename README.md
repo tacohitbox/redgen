@@ -1,5 +1,11 @@
 # redgen
+
 Tool to automate making Reddit accounts, written in Node.
+
+## features 
+
+- Generate Reddit accounts in under a minute.
+- Proxy support (Reddit only, currently [see here](#issues).)
 
 ## installation & configuration
 
@@ -16,3 +22,8 @@ redgen-config # put in your 2captcha key here!
 ```
 
 Then, whenever you want, you can generate Reddit accounts with `redgen`.
+
+## known issues
+
+- Rate limiting by IP on a per 8-minute basis. Possibly longer depending on how much you push it. Kinda annoying but proxies are (I think) the only way to get around them.
+- Proxy only goes through on Puppeteer instance, not on Mail.tm or CAPTCHA.
