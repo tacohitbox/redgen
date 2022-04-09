@@ -5,7 +5,7 @@ Tool to automate making Reddit accounts, written in Node.
 ## features 
 
 - Generate Reddit accounts in under a minute.
-- Proxy support (Reddit only, currently [see here](#issues).)
+- Proxy support (Reddit only, currently [see here](#known-issues).)
 
 ## installation & configuration
 
