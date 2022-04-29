@@ -60,7 +60,6 @@ prompt.get({
 });
 
 function toTF(yn) {
-  console.log(yn.toLowerCase())
   switch (yn.toLowerCase()) {
     case "y":
     case "yes":

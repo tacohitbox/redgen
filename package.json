@@ -19,9 +19,9 @@
   "homepage": "https://github.com/pedropb/redgen#readme",
   "dependencies": {
     "axios": "^0.26.1",
+    "cli-progress": "^3.10.0",
     "custom-password-generator": "^1.2.0",
     "mail.tm": "^0.0.5",
-    "ora": "^5.4.0",
     "prompt": "^1.2.2",
     "puppeteer": "^13.5.2",
     "puppeteer-extra": "^3.2.3",
