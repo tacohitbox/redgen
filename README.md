@@ -1,6 +1,7 @@
 # redgen
 
-Tool to automate making Reddit accounts, written in Node.
+Tool to automate making Reddit accounts, written in Node. 
+Made this after the inspiration I got from the [r/place](https://reddit.com/r/place) excessive bot usage of 2022.
 
 ## features 
 
