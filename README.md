@@ -26,4 +26,4 @@ Then, whenever you want, you can generate Reddit accounts with `redgen`.
 ## known issues
 
 - Rate limiting by IP on a per 8-minute basis. Possibly longer depending on how much you push it. Kinda annoying but proxies are (I think) the only way to get around them.
-- Proxy only goes through on Puppeteer instance, not on Mail.tm or CAPTCHA.
+- Proxy only goes through on Puppeteer instance, not on Mail.tm or CAPTCHA solver.
